@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.module.css"],"names":[],"mappings":"AAAA,sBACE,UAAW,CACX,iBAAkB,CAClB,eAAgB,CAChB,eAAgB,CAChB,qCACF","file":"main.df55d75d.chunk.css","sourcesContent":[".container {\n  width: 100%;\n  margin: 100px auto;\n  min-width: 450px;\n  max-width: 600px;\n  font-family: \"Spoqa Han Sans\", sans-serif;\n}\n"]}
